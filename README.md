@@ -10,4 +10,3 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 💼 any freelance work? do reach, email
 - ⚡ Fun fact: i love coding.
 
-![keep_calm_and_keep_coding-wallpaper-1024x768](https://user-images.githubusercontent.com/56291063/173513991-6b8352fd-0d57-4678-b764-6a3f245ec516.jpg)
