@@ -6,7 +6,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 👯 I’m looking to collaborate on ussd intergration  
 - 🤔 I’m looking for help with docker
 - 💬 Ask me about anything, i am happy to help
-- 📫 How to reach me: email *evanslangat22@gmail.com.   
+- 📫 How to reach me: twitter[@llangatevans](https://twitter.com/llangatevans),
+[email](https://evanslangatresume.netlify.app/#contact)
 - 💼 any freelance work? do reach, email
 - ⚡ Fun fact: i love coding.
 
