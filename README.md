@@ -24,6 +24,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![C#](https://img.shields.io/badge/C#-%23ED8B00.svg?style=for-the-badge&logo=C#&logoColor=white)
 
 # database
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
