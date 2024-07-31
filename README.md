@@ -15,7 +15,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 # code
 ![C#](https://img.shields.io/badge/C#-%23ED8B00.svg?style=for-the-badge&logo=C#&logoColor=white)
-![.NET](https://img.shields.io/badge/>NET-%23ED8B00.svg?style=for-the-badge&logo=.net&logoColor=white)
+![.NET](https://img.shields.io/badge/NET-%23ED8B00.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
